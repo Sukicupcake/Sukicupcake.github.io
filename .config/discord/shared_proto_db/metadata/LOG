@@ -1,2 +1,3 @@
-2022/08/01-16:46:17.655 42ec Creating DB /home/suki/.config/discord/shared_proto_db/metadata since it was missing.
-2022/08/01-16:46:17.664 42ec Reusing MANIFEST /home/suki/.config/discord/shared_proto_db/metadata/MANIFEST-000001
+2022/08/04-16:54:14.665 1ceb Reusing MANIFEST /home/suki/.config/discord/shared_proto_db/metadata/MANIFEST-000001
+2022/08/04-16:54:14.665 1ceb Recovering log #3
+2022/08/04-16:54:14.665 1ceb Reusing old log /home/suki/.config/discord/shared_proto_db/metadata/000003.log 

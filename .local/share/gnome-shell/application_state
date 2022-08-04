@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="snap-store_ubuntu-software.desktop" score="72" last-seen="1659376705"/>
-    <application id="timeshift-gtk.desktop" score="6" last-seen="1659362576"/>
-    <application id="libreoffice-startcenter.desktop" score="1" last-seen="1659365077"/>
-    <application id="org.gnome.Nautilus.desktop" score="51" last-seen="1659608667"/>
-    <application id="gnome-initial-setup.desktop" score="18" last-seen="1659298252"/>
-    <application id="code_code.desktop" score="505" last-seen="1659380716"/>
-    <application id="libreoffice-writer.desktop" score="0" last-seen="1659365070"/>
-    <application id="org.gnome.gedit.desktop" score="3" last-seen="1659614361"/>
-    <application id="rhythmbox.desktop" score="0" last-seen="1659365097"/>
-    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1659365134"/>
+    <application id="libreoffice-writer.desktop" score="6" last-seen="1659624773"/>
     <application id="gnome-control-center.desktop" score="55" last-seen="1659615286"/>
-    <application id="discord.desktop" score="85" last-seen="1659370742"/>
-    <application id="org.gnome.Terminal.desktop" score="2736" last-seen="1659614346"/>
+    <application id="org.gnome.gedit.desktop" score="3" last-seen="1659614361"/>
     <application id="update-manager.desktop" score="98" last-seen="1659298380"/>
-    <application id="firefox_firefox.desktop" score="14" last-seen="1659378857"/>
+    <application id="libreoffice-startcenter.desktop" score="1" last-seen="1659365077"/>
+    <application id="org.gnome.Nautilus.desktop" score="52" last-seen="1659624700"/>
+    <application id="code_code.desktop" score="509" last-seen="1659624701"/>
+    <application id="snap-store_ubuntu-software.desktop" score="72" last-seen="1659376705"/>
+    <application id="gnome-initial-setup.desktop" score="18" last-seen="1659298252"/>
+    <application id="org.gnome.Terminal.desktop" score="2913" last-seen="1659626639"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1659365097"/>
+    <application id="firefox_firefox.desktop" score="64" last-seen="1659624737"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1659365134"/>
+    <application id="discord.desktop" score="259" last-seen="1659626073"/>
+    <application id="timeshift-gtk.desktop" score="6" last-seen="1659362576"/>
   </context>
 </application-state>
