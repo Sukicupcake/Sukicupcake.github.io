@@ -1,0 +1,48 @@
+[Data Source]
+DisplayName=Rendez-vous sur Facebook pour Uchronies Games
+Enabled=true
+Parent=398f169905a2829f4674f3ce7ab0fca58cee8d4a
+
+[Authentication]
+Host=apidata.googleusercontent.com
+Method=OAuth2
+Port=443
+ProxyUid=system-proxy
+RememberPassword=true
+User=vdavid1@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=tls
+
+[Resource]
+Identity=events::https://apidata.googleusercontent.com/caldav/v2/eb9hdsfb7lpbrkqjs2vm1tqpoc%40group.calendar.google.com/events/
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=true
+Color=#9a9cff
+DisplayName=Rendez-vous sur Facebook pour Uchronies Games
+EmailAddress=
+ResourcePath=/caldav/v2/eb9hdsfb7lpbrkqjs2vm1tqpoc%40group.calendar.google.com/events/
+ResourceQuery=
+SslTrust=
+Order=4294967295
+
+[Calendar]
+BackendName=caldav
+Color=#9a9cff
+Selected=true
+Order=0
+
+[Alarms]
+IncludeMe=true
+LastNotified=2022-07-31T20:09:22.069351Z
+
+[Offline]
+StaySynchronized=true
+
+[Refresh]
+Enabled=true
+IntervalMinutes=30

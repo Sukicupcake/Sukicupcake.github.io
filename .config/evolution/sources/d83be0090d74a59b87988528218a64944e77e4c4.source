@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=vdavid1@gmail.com
+Enabled=true
+Parent=398f169905a2829f4674f3ce7ab0fca58cee8d4a
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=b96fca8ddc98716bca28da6ce30b1f5b121e44b4
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=vdavid1@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

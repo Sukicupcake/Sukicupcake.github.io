@@ -1,0 +1,8 @@
+2022/08/01-16:46:03.559 4300 Creating DB /home/suki/.config/discord/Local Storage/leveldb since it was missing.
+2022/08/01-16:46:03.575 4300 Reusing MANIFEST /home/suki/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/08/01-16:48:13.130 42f0 Level-0 table #5: started
+2022/08/01-16:48:13.137 42f0 Level-0 table #5: 505852 bytes OK
+2022/08/01-16:48:13.139 42f0 Delete type=0 #3
+2022/08/01-16:56:36.332 4a69 Level-0 table #7: started
+2022/08/01-16:56:36.335 4a69 Level-0 table #7: 63937 bytes OK
+2022/08/01-16:56:36.338 4a69 Delete type=0 #4

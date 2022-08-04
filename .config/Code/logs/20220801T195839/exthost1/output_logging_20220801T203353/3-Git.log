@@ -1,0 +1,77 @@
+[2022-08-01T18:33:55.697Z] Log level: Info
+[2022-08-01T18:33:55.700Z] [info] Validating found git in: git
+[2022-08-01T18:33:55.716Z] [info] Using git 2.37.1 from git
+[2022-08-01T18:33:55.741Z] > git rev-parse --show-toplevel [15ms]
+[2022-08-01T18:33:55.753Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2022-08-01T18:33:55.761Z] [info] Open repository: /home/suki/Sukicupcake.github.io
+[2022-08-01T18:33:55.821Z] > git status -z -uall [48ms]
+[2022-08-01T18:33:55.828Z] > git symbolic-ref --short HEAD [2ms]
+[2022-08-01T18:33:55.844Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+[2022-08-01T18:33:55.865Z] > git remote --verbose [3ms]
+[2022-08-01T18:33:55.865Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-08-01T18:33:55.905Z] > git config --get commit.template [18ms]
+[2022-08-01T18:33:55.968Z] > git status -z -uall [40ms]
+[2022-08-01T18:33:55.974Z] > git symbolic-ref --short HEAD [1ms]
+[2022-08-01T18:33:55.981Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-08-01T18:33:55.990Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-08-01T18:33:55.991Z] > git remote --verbose [2ms]
+[2022-08-01T18:33:56.000Z] > git config --get commit.template [3ms]
+[2022-08-01T18:33:56.285Z] > git check-ignore -v -z --stdin [2ms]
+[2022-08-01T18:34:05.375Z] > git show --textconv :index.html [50ms]
+[2022-08-01T18:34:05.376Z] > git ls-files --stage -- /home/suki/Sukicupcake.github.io/index.html [45ms]
+[2022-08-01T18:34:05.397Z] > git cat-file -s 5f4f09e7ad758ee556b701630e9226343255ac0f [16ms]
+[2022-08-01T18:35:11.988Z] > git status -z -uall [43ms]
+[2022-08-01T18:35:11.997Z] > git symbolic-ref --short HEAD [3ms]
+[2022-08-01T18:35:12.005Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-08-01T18:35:12.019Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-08-01T18:35:12.020Z] > git remote --verbose [2ms]
+[2022-08-01T18:35:12.030Z] > git config --get commit.template [1ms]
+[2022-08-01T18:36:12.433Z] > git status -z -uall [2ms]
+[2022-08-01T18:36:12.440Z] > git symbolic-ref --short HEAD [2ms]
+[2022-08-01T18:36:12.456Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+[2022-08-01T18:36:12.469Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-08-01T18:36:12.470Z] > git remote --verbose [2ms]
+[2022-08-01T18:36:12.478Z] > git config --get commit.template [2ms]
+[2022-08-01T18:36:12.504Z] > git ls-files --stage -- /home/suki/Sukicupcake.github.io/index.html [0ms]
+[2022-08-01T18:36:12.519Z] > git cat-file -s 5f4f09e7ad758ee556b701630e9226343255ac0f [2ms]
+[2022-08-01T18:36:12.535Z] > git show --textconv :index.html [1ms]
+[2022-08-01T18:36:19.314Z] > git add -A -- . [2ms]
+[2022-08-01T18:36:19.326Z] > git -c user.useConfigOnly=true commit --quiet [3ms]
+[2022-08-01T18:36:19.326Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-08-01T18:36:19.333Z] > git config --get-all user.name [2ms]
+[2022-08-01T18:36:21.931Z] > git status -z -uall [5ms]
+[2022-08-01T18:36:21.937Z] > git symbolic-ref --short HEAD [0ms]
+[2022-08-01T18:36:21.950Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+[2022-08-01T18:36:21.963Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-08-01T18:36:21.964Z] > git remote --verbose [2ms]
+[2022-08-01T18:36:21.978Z] > git config --get commit.template [2ms]
+[2022-08-01T18:36:22.047Z] > git ls-files --stage -- /home/suki/Sukicupcake.github.io/index.html [2ms]
+[2022-08-01T18:36:22.055Z] > git cat-file -s e827992988c7681e4932ceff0275411257fc9ac6 [2ms]
+[2022-08-01T18:36:22.169Z] > git show --textconv :index.html [2ms]
+[2022-08-01T18:36:26.584Z] > git -c user.useConfigOnly=true commit --quiet [1ms]
+[2022-08-01T18:36:26.584Z] Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+[2022-08-01T18:36:26.594Z] > git config --get-all user.name [4ms]

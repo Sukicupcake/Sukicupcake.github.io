@@ -1,0 +1,39 @@
+[2022-08-01 19:58:44.410] [exthost] [info] Extension host with pid 22424 started
+[2022-08-01 19:58:44.673] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-01 19:58:44.836] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-01 19:58:44.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-01 19:58:44.846] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-01 19:58:44.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-01 19:58:45.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-01 19:58:45.164] [exthost] [info] Eager extensions activated
+[2022-08-01 19:58:45.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-01 19:58:45.205] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-01 19:58:45.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-01 19:58:45.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-01 19:58:45.665] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-01 19:58:45.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-01 20:33:51.723] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-01 20:33:51.753] [exthost] [error] Error: read ECONNRESET
+	at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-08-01 20:33:51.755] [exthost] [info] Extension host with pid 22424 exiting with code 0
+[2022-08-01 20:33:53.998] [exthost] [info] Extension host with pid 24594 started
+[2022-08-01 20:33:53.998] [exthost] [info] Skipping acquiring lock for /home/suki/.config/Code/User/workspaceStorage/45cc1a15725370d1690967a6437316d2.
+[2022-08-01 20:33:54.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-01 20:33:54.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-01 20:33:54.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-08-01 20:33:54.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-01 20:33:54.255] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-01 20:33:54.276] [exthost] [info] Eager extensions activated
+[2022-08-01 20:33:54.284] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-01 20:33:54.290] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-01 20:33:54.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-01 20:33:55.675] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-08-01 20:34:02.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2022-08-01 20:34:05.108] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-08-01 20:36:19.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-01 20:36:19.404] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-01 20:36:19.449] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-02 00:49:44.370] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-02 00:49:44.390] [exthost] [error] Error: read ECONNRESET
+	at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-08-02 00:49:44.392] [exthost] [info] Extension host with pid 24594 exiting with code 0

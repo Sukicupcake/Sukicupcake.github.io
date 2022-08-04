@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/suki/Hirefia.sh" added="2022-08-01T14:27:00Z" modified="2022-08-01T14:27:00Z" visited="2022-08-01T14:27:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-08-01T14:27:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suki/Hirefia" added="2022-08-01T14:27:07Z" modified="2022-08-01T14:36:06Z" visited="2022-08-01T14:27:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-08-01T14:36:06Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gedit %U&apos;" modified="2022-08-01T14:27:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suki/Documents/Hirefia" added="2022-08-01T14:47:37Z" modified="2022-08-01T14:47:37Z" visited="2022-08-01T14:47:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Discord" exec="&apos;Discord %u&apos;" modified="2022-08-01T14:47:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suki" added="2022-08-01T18:33:47Z" modified="2022-08-01T18:33:47Z" visited="2022-08-01T18:33:47.715226Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-08-01T18:33:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/suki/.gitconfig" added="2022-08-04T11:59:06.692874Z" modified="2022-08-04T11:59:06.692878Z" visited="2022-08-04T11:59:06.692875Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-08-04T11:59:06.692877Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
